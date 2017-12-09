@@ -1,0 +1,29 @@
+body {
+  font-family: "Yantramanav", sans-serif;
+	
+}
+
+h1 {
+  text-align: center;
+  margin-top: 75px;
+  font-size: 100px;
+	
+}
+
+a.play {
+  padding: 0 65px;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 75px;
+  height: 100px; 
+  width: 150px; 
+  background-color: #1483e3; 
+  border-radius: 300px; 
+
+}
+
+a.play:hover {
+  background-color: #4a9adf;
+	
+}
+
